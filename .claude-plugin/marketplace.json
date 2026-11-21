@@ -1,0 +1,14 @@
+{
+  "name": "pr-description",
+  "description": "A Claude Code skill for consistent pull request titles and descriptions",
+  "owner": {
+    "name": "zh10only1"
+  },
+  "plugins": [
+    {
+      "name": "pr-description",
+      "source": "./",
+      "description": "Consistent, short, accurate pull request titles and descriptions in any repo: Summary, Behaviour, Deploy, Tests. No commit lists, no AI attribution."
+    }
+  ]
+}

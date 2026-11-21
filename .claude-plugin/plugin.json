@@ -1,0 +1,10 @@
+{
+  "name": "pr-description",
+  "version": "1.0.0",
+  "description": "Consistent, short, accurate pull request titles and descriptions in any repo: Summary, Behaviour, Deploy, Tests. No commit lists, no AI attribution.",
+  "author": {
+    "name": "zh10only1"
+  },
+  "repository": "https://github.com/zh10only1/pr-description",
+  "license": "MIT"
+}
